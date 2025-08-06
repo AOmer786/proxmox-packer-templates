@@ -1,6 +1,6 @@
 proxmox_host = "192.168.86.184:8006"
-proxmox_user = "root"
-proxmox_password = "Password786*"
+proxmox_user = "packer@pve!packer"
+proxmox_password = "ab958500-247a-4bcb-98d8-dd3b409a42c5"
 node = "pve"
 vmid = "999"
 iso_storage_pool = "local"
