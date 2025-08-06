@@ -1,4 +1,4 @@
-proxmox_host = "192.168.86.184"
+proxmox_host = "192.168.86.184:8006"
 proxmox_user = "root"
 proxmox_password = "Password786*"
 node = "pve"
