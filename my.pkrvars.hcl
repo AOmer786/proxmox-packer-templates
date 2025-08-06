@@ -6,3 +6,4 @@ insecure_skip_tls_verify  = true
 node                      = "pve"
 vmid                      = "999"
 iso_storage_pool          = "local"
+disk_storage_pool         = "local-lvm"
