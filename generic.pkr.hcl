@@ -1,5 +1,5 @@
 source "proxmox-iso" "vm" {
-  proxmox_url              = "https://${var.proxmox_host}/api2/json"
+  proxmox_url              = "http://${var.proxmox_host}/api2/json"
   username                 = var.proxmox_user
   password                 = var.proxmox_password
   insecure_skip_tls_verify = var.proxmox_insecure_tls
